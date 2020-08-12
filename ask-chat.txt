@@ -1,0 +1,8 @@
+Ask Chat
+
+A program where you can ask chat a question, and receive an answer which is a deduction from the responses in chat.
+
+There are often dishonest, sarcastic, and otherwise unhelpful answers given in chat. Dealing with those will be a priority.
+
+tags:
+application

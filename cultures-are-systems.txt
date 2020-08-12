@@ -1,0 +1,5 @@
+Cultures Are Systems
+
+Cultures are defined by interconnected components. At the most granular, these components are the individuals in the culture. 
+
+They have communication architecture, like message passing. They are c

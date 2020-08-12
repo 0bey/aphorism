@@ -1,0 +1,10 @@
+Pure Client Architecure
+
+This is an architecture in which the client is defined as a pure function from state to view.
+This function is called whenever the application state is updated. 
+Side effects are achieved by events moving from the client to the server.
+A new state is sourced each time an event is received.
+
+Connections:
++ Architecture
++ Redux

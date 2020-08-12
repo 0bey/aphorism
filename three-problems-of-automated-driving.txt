@@ -1,0 +1,10 @@
+three problems of automated driving
+
+as described by george hotz
+
+1. static : the ability to plan out the entire task of self driving with one or more vehicles, under entirely defined environmental conditions.
+
+2. dynamic : the ability to plan out the entire task, with variations in the environment handled
+
+3. counterfactual : the ability to plan out the entire task, with self-made variations in the environment handled
+

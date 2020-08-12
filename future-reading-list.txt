@@ -1,0 +1,17 @@
+neil postman // amusing ourselves to death
+Paul colinvaux // the fates of nations
+Marijn Haverbeke // eloquent javascript
+Mitcheell Waldrop // The dream machine
+Gregory Bateson // Steps to an ecology of mind
+Steven Levitt // freakonomics
+Alan Watts // The wisdom of insecurity 
+John Conway // Regular Algebra and Finite Machines
+E.o. Wilson // Consilience 
+Don Knuth // The art of computer programming vol 1
+Montessori // ?
+Suzuki // ?
+Mccarthy // List 1.5 Programmers Manual
+Minsky // Computation: Finite and Infinite Machines
+Herb Simon // The sciences of the artificial
+Fred Brooks // The mythical man month
+Vygotsky // Mind in Society

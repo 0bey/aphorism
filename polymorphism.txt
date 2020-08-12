@@ -1,0 +1,14 @@
+Polymorphism
+
+The idea of representing multiple concepts with the same interface.
+
+This can be achieved in three primary ways,
+1. Overloading 
+Having a function with multiple signatures, each defining different types of arguments.
+
+2. Generics
+Having a function with a signature that includes generic types.
+
+3. Subtyping
+Having multiple interfaces derived from the same underlying interface.
+

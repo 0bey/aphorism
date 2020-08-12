@@ -1,0 +1,3 @@
+Accuracy is the closeness of values to a specific value, while precision is the closeness of the values to each other.
+
+Accuracy is a measure of truth while precision is a measure of variability.

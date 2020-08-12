@@ -1,0 +1,15 @@
+Cognitive Friction
+
+Measure of the complexity of a system by the ways in which a single input can
+change its state.
+
+The lowest possible value is an input which has exactly one possible state change. 
+
+When a system is modeless, it has less cognitive friction.
+
+Connections
++ larry tessler 
++ modelessness
++ alan cooper
++ inmates are running the asylum
+  

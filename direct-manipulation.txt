@@ -1,0 +1,6 @@
+Direct Manipulation
+
+Certain things in the world can be modified as they are. 
+Other things, such as computer programs, have a hidden representation that must be edited in order to see the final representation change.
+
+This distinction comes into play for the human creator.

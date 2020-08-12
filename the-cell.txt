@@ -1,0 +1,8 @@
+The Cell
+
+The concept of the cell, a self organizing agent who can participate in 
+evolution.
+
+A cell has an entropy reducer, a turing machine, and a self-replicator
+
+We are the product of the cell. 

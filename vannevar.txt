@@ -1,0 +1,9 @@
+Vannevar
+
+A potential application which allows the implementation of a Concept Graph.
+
+The application allows for viewing and editing the graph. 
+
+The application should follow some core principles:
+* Applies Bret Victor's creator feedback principle
+* Asserts the Concept Graph constraints

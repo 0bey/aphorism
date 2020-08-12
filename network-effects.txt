@@ -1,0 +1,4 @@
+Network Effects
+
+Contributes to the value of a thing increasing with the number of people contained within it.
+Creates stability in a group of agents. 

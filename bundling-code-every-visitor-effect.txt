@@ -1,0 +1,4 @@
+# bundling code every visitor effect
+
+Bundling an entire applications code makes the visitor to a particular section of the application pay the price of the entire application's bundle size.
+
