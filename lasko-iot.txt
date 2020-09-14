@@ -1,0 +1,4 @@
+Lasko IOT 
+project
+
+A kit for replacing or augmenting the control knob of a lasko box fan to be controllable over an api would be great.
