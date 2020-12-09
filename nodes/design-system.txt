@@ -1,0 +1,7 @@
+Design System
+
+An articulation of how products of a company will be designed. 
+
+The system must establish the product's ethos. This brings together product developers and consumers alike under a common vision of how the company's products look, behave, and feel.
+
+The system must unify design components of building products. Elements of the design are unified by providing pre-packaged resources. Typography, iconography, color, even behavior are all supplied in libraries and examples. 
