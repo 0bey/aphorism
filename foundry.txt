@@ -1,0 +1,11 @@
+Foundry
+
+A suite of applications to augment the use of apollo printers.
++ slicer / gcode ide 
++ host
++ lab (fleet)
+
+Designed as a collection of applications rather than a monolithic app to follow the line of bounded contexts. When you do so, issues of synchronizing releases are often immediately solved.
+
+The architecture included both REST and event-driven (over WS) elements. The two were divided along bounded context of the host app and all others.
+

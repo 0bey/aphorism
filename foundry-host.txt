@@ -1,0 +1,4 @@
+Foundry Host (aka printer console)
+
+Event driven application for controlling the digital alloys printer. The stack includes the front end, driver, monitor, and firmware. This stack is sufficient to print with the printer. 
+

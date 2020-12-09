@@ -1,0 +1,22 @@
+Timeline 
+
+EnerNOC: demand response and energy intelligence software company
+
+Williams College: college in williamstown
+
+Rethink Robotics: robotics company focusing on industrial collaborative robots. hardware based on the implicitly force sensing series elastic actuator joint.
+
+2012
+- williams college - started
+- williams college - williams web ops - helping web site building and maintenance for administration and staff. mostly using wordpress. 
+- williams college - summer nsf research - smart home meter - machine learning algorithm for energy disaggregation 
+- williams college - independent research - shake - smart watch contact sharing
+
+2016 
+- williams college - obtained math and cs degrees 
+- enerNOC - started
+- enerNOC - built customer onboarding portal. polymer front end, node server, mongoDB.
+- rethink robotics - started as QA engineer, wrote and executed manual and automated tests for the sawyer industrial robot. worked with designers, UI, back-end, and controls engineers.
+
+2017
+- rethink robotics - started as UI engineer - worked on Intera robot training software. This was an event driven progressive web application written using React. We were working to make it extensible to more than the Sawyer cobot - think robot operating system. I led the team creating a mobile training toolkit. I introduced componentization to the team, these were the first steps towards a design system. One of the pain points for the team was the relationship with UX, this came as a surprise to me, as I was fond of thinking of the problem of the UX team expressing their ideas. Led the hackathon cloud intera effort.  

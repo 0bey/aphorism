@@ -1,0 +1,4 @@
+sicp
+
+i am attempting to read through sicp and see what it can give me.
+

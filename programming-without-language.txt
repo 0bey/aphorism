@@ -1,0 +1,3 @@
+It is possible to program without a textual programming language. Training a machine learning algorithm could be described as programming without text. Visual programming languages are similarly textless. Both, of course, involve a language and some of it does have text. The essence of the three are different though.
+
+The character of data-driven, statistical based programming may be characterized as programming 2.0 by Andrej Karpathy. I have not researched that concept of his yet.

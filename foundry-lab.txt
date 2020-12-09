@@ -1,0 +1,5 @@
+Foundry Fleet
+
+Operations managment interface for a fleet of digital alloys printers. 
+
+The architecture is based upon a REST protocol. Resources within the system are schematized with our own custom schema protocol. The schema is levereged to generate most of the UI. This greatly increases time to deploy. The con is that the UI is customized per data field type and not per resource type. When is this OK?

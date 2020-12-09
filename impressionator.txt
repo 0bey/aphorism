@@ -1,0 +1,1 @@
+A drum machine which incorporates the motion of the hand approaching and exiting a hit into the overall sound of the sample.

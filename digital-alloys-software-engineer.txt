@@ -1,0 +1,15 @@
+Software engineer at digital alloys
+
+
++ led ground-up development of the foundry suite of web applications. this included a fleet management application as well as an event driven machine controller.
++ created tools for tinkering, engineering, and science.e
++ created tools for interactive toolpath planning.
++ established company design system. applied in both UI and branding applications.
++ created team component library.
+
+issues:
++ demotions
++ lack of technical inspiration and vision
++ pushing down of responsibility 
++ lack of founders
++ dichotomy of real problems vs. external problems

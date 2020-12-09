@@ -1,0 +1,4 @@
+typescript
+
+Interfaces describe the shape of data. They help to create contracts between parts of your code, and between your code and the outside world.
+

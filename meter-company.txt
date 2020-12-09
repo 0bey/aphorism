@@ -1,0 +1,17 @@
+Meter 
+
+X-ray Visonaries
+
+Questions
+
+- At this stage, is the application used for debugging the technology or for solving customer problems?
+
+- Talk to me about the problems this solves. 
+
+- Where does this fit in the modern workplace? Is this target for RND, shared spaces, large manufacturing floors? Compare and contrast the use cases, software interfaces. 
+
+- Is there an identified opportunity for a programmable interface?
+
+- I love working on problems of expression, are there problems of expression you are trying to solve?
+
+- I love working on problems of direct manipulation, are there areas where direct manipulation plays a role in your solutions? Do you see the 3d visualization as the primary interface for your solutions? Have you found features that you wish to add as manipulations or augmentations to 3d visualizations that you find difficult?

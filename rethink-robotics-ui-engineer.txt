@@ -1,0 +1,9 @@
+UI engineer at rethink robotics
+
+Worked on Intera robot training software. This was an event driven progressive web application written using React. We were working to make it extensible to more than the Sawyer cobot - think robot operating system. 
+
+I led the team creating a mobile training toolkit. 
+
+I introduced componentization to the team, these were the first steps towards a design system. One of the pain points for the team was the relationship with UX, this came as a surprise to me, as I was fond of thinking of the problem of the UX team expressing their ideas. 
+
+Led the hackathon cloud intera effort. This was a cloud, or site, deployed application for managing the activities of a fleet of robots.
