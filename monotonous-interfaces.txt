@@ -1,0 +1,1 @@
+An interface which has provides exactly one gesture to evoke an action is said to be monotonous.

@@ -1,0 +1,5 @@
+An interface which apples actions to selected content follows a noun-verb pattern. For example, selecting a door and then performing an open action is different than selecting to open and then finding the door content to select.
+
+Noun-verb interfaces are synonymous with object-action interfaces.
+
+These interfaces avoid the mode which exists between choosing and action to perform and choosing the content upon which to perform the action.

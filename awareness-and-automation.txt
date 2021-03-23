@@ -1,0 +1,5 @@
+The degree to which a user's actions can be overridden by the system they are controlling should be relative to the absolute awareness of the user.
+
+At least, there is the feeling that the acceptance of a warning or confirmation is dependent on the awareness of the person being warned or asked.
+
+Often the level of awareness of a user at the point in time an action is commanded is guessed by the developer. This results in many annoying blocks on user workflows, which undo-redo are better suited to solve.

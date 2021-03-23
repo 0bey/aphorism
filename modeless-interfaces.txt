@@ -1,0 +1,1 @@
+An interface which has exactly one action for any gesture is said to be modeless. Each mode introduces an additional action for the some gesture.
